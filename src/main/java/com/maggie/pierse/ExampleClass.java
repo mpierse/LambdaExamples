@@ -1,10 +1,10 @@
-package com.maggie.pierse.exampleOne;
+package com.maggie.pierse;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
 
-public class StreamExample {
+public class ExampleClass {
 
 
     private List<String> exampleList = Arrays.asList("a", "b", "c", "d", "e", "f", "g");
